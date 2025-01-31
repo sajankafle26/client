@@ -17,7 +17,7 @@
 
 3. **Run the development server**:
     ```sh
-    npm start
+    npm run dev
     ```
 
 4. **Build the project for production**:
