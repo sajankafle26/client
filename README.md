@@ -11,6 +11,8 @@
 2. **Install dependencies**:
     ```sh
     npm install
+    npm install react-router-dom@6
+    npm i axios
     ```
 
 3. **Run the development server**:
